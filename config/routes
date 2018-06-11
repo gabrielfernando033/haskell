@@ -14,4 +14,5 @@
 
 /loja            		ListaLojaR      GET 
 /loja/instrumento 		InstrumentoR 	GET POST
+!/loja/#InstrumentoId   LojaR 			GET POST
 
