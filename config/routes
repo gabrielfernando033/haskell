@@ -4,3 +4,7 @@
 /robots.txt RobotsR GET
 
 /       LoginPageR 	GET
+
+/signup SignupPageR GET
+/login UserLoginR POST
+/logout UserLogoutR GET
