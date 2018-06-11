@@ -8,3 +8,6 @@
 /signup SignupPageR GET
 /login UserLoginR POST
 /logout UserLogoutR GET
+
+/user UsuarioR POST
+/user/#UsuarioId UsuarioByIdR GET
